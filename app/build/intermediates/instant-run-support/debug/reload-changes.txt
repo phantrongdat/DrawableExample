@@ -1,0 +1,10 @@
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$string$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$mipmap$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$id$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\MainActivity$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$integer$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$style$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$layout$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$styleable$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\dat17\drawableexample\R$id$override.class
+CHANGED,D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

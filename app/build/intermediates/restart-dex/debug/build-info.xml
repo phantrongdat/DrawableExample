@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="385999683000062"
+    token="-7472050089470018010"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="3141" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="465" />
+    <task
+        name="verifier"
+        duration="71" />
+
+    <artifact
+        location="D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+
+    <build timestamp="384873055118207" >
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="385999683000062"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\DAT\ANDROID\PROJECT2\DrawableExample\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
